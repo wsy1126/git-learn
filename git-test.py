@@ -1,1 +1,3 @@
-print("Hello World")
+word = "hello world".capitalize()
+
+print(word)
